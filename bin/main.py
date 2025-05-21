@@ -5,8 +5,8 @@ import sys
 def main():
     base_path = sys.argv[1]
     
-    clear_public_folder("public")
-    copy_static_content("public")
+    clear_public_folder("docs")
+    copy_static_content("docs")
 
     generate_pages_recursive("content", "src/template.html", "docs", base_path)
 if __name__ == "__main__":
