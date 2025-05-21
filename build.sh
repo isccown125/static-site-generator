@@ -1,1 +1,1 @@
-PYTHONPATH=. python3 bin/main.py "https://github.com/isccown125/static-site-generator/"
+PYTHONPATH=. python3 bin/main.py "https://isccown125.github.io/static-site-generator/"
