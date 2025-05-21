@@ -1,0 +1,1 @@
+PYTHONPATH=. python3 bin/main.py "https://github.com/isccown125/static-site-generator/"
